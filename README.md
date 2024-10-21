@@ -1,7 +1,6 @@
 # YachayLab
 
-
-YachayLab es una plataforma de aprendizaje para la enseñanza de robótica. Aquí puedes ver los diagramas de arquitectura siguiendo el modelo C4.
+YachayLab es una plataforma de aprendizaje dedicada a la enseñanza de robótica, diseñada para facilitar la educación a través de experiencias interactivas y prácticas. La arquitectura de YachayLab se estructura siguiendo el modelo C4, que permite una visualización clara de los distintos niveles de interacción y componentes del sistema.
 
 ## Diagrama de Contexto
 
@@ -10,9 +9,11 @@ YachayLab es una plataforma de aprendizaje para la enseñanza de robótica. Aqu�
 
 ## Diagrama de Contenedores
 
-![Diagrama de Contenedores](https://www.plantuml.com/plantuml/png/...)  <!-- Pega la URL del diagrama de contenedores -->
+![](http://www.plantuml.com/plantuml/png/RLDDRzim3BtxLsW-kK0JNtRgOMYRVgn0DcGhUjYfe2N6KMTB1YLrouRzf9rospL_RAJjU6Ww8t1ecNplaO_EpaC4YgbjiZVMwIOPL9iOkt1MbWJVvhMDcrIbWAIzY-ZYNFksx1fmKZCBqJIsAXTlPoivUlYmB5i84OcF7XTS0TOXpJl1p-wt_APzlFJ96Q1jyGNq1hPBg4vLFiMAWUBQKvkVg9-Puck2ATRKQp2SVpE6ESUV4NISFmM9x_YKrl13SHyf923hLGS4gl51OOZ9MDQ9GMrLHtwDmHE6UNvon5I1_ZeGNGwHO7_q1aUQMuQotZ4i__QxsceGHdxYqKGG_S0K3GHriRfxXNzL5ORJAWZ8O5TZAC0h7s9DUFzfAKyNJGiQcSQw7bBR_Swfu2kQkWkdIYSAyezHl-x4UDPFmj87-OkeRqCWMVlWBnePo30o3OPllksyO-DnR12wXhljbGZRhonR8VExGfQ4CHy6NPCPxCt-Z-0uXOqALdO0k73SXklliHYMJFJO-3vLBmRCDNg_CxRspD-8QLlKqQjfOKH49jngDdkd3YkYpaG938s0rcWu0VxnPrEYL8rsIz6rUzx_1funTsbvNGx3g4T1D8wRtJqua6U7Ui4w62jWIqJEmw39LYXlZfE7pYLLPbNBq8TcZp1xnoHjuOd-vnK-eKxy9VTxpiDuPlL2TiuGyl7z1G00
+)  <!-- Pega la URL del diagrama de contenedores -->
 
 ## Diagrama de Componentes
 
-![Diagrama de Componentes](https://www.plantuml.com/plantuml/png/...)  <!-- Pega la URL del diagrama de componentes -->
+![](http://www.plantuml.com/plantuml/png/TLDDRzim3BtxLsY-B0EM-B9J3qEpP2qAf4FMekU2bXb7hImP-jWdzgjwspL_RAHY9wwJ1JbG5DzxfFYSNVe0BiH6Ps-KaJfMABOXjFwYA1nydzKgR6CPFJffJK0JPj8sHQl1C6RgGwLLMIm-JDUSUhXT5GtuW8vIZmlRjDOmfcN-R44Ce0owIGdo6KtrNkIVzb5EuHTRuUp9StWB1fz0QFhlNcebGL1RT89Mqq6gtOkPvU_4xqpGxo0pWLOHUBw--H-T5zuIWmeqfYTEBJOkZLKHtPWiXkqzkczA8b7i8sMvaNdaX-WR6MbTem_AcjGyl2faQFGHdBB-L4xQw3oU5qoS7SE2ogmVYVBBEgkJg7JOwVqKzG0e4v25_mnMiImd5GGemRFeiWkPSsrzg1tUVrtnQQuRa4XZAREnhZcTYDIE2eDLzmzC75TTo7ntr6Jekh-XhDl0hm6TQC6bQSXf0PBYkOL7DO8_xE471GwMrh1xgCL3hueXTBtx2qQGiGKvmIloRP8PYT074f0i13KsTEvttCt_cQwhJh2AFmPs8qvCbsVDorjuA-vGKuPqVDO_b9XEFrAj4XSYNsbe29XdV4xveodvVkJ4GzahCt7XzOaHZiNz_XEXb4Wbm4ckkQI6-Dlz1m00
+)  <!-- Pega la URL del diagrama de componentes -->
 
